@@ -2,7 +2,7 @@
 - 👀 I’m new in coding world.
 - 🌱 I’m currently learning Coding languages.
 - 📫 How to reach me
-     Email:lingsomeijam1@outlook.com
+     Email:lingsomeijam1@outlook.com\
      QQ:1251590498
 
 <!---
