@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Someijam
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Coding language.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m new in coding world.
+- 🌱 I’m currently learning Coding languages.
 - 📫 How to reach me
      Email:lingsomeijam1@outlook.com
+     QQ:1251590498
 
 <!---
 Someijam/Someijam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
