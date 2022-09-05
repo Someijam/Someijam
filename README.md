@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Someijam
 - 👀 I’m new in coding world.
 - 🌱 I’m currently learning Algorithm.
-- 📫 How to reach me
+- 📫 How to reach me\
      Email:lingsomeijam1@outlook.com\
-     QQ:1251590498
+     QQ:1251590498\
 - 🌍 Blog:https://blog.someijam.cn
 
 <!---
