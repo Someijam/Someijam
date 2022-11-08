@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Someijam
 - 👀 I’m new in CS world.
-- 🌱 I’m currently learning Algorithm&CTF.
+- 🌱 I’m currently learning Algorithm&Cyber Science.
 - 📫 How to reach me\
      Email:lingsomeijam1@outlook.com\
      QQ:1251590498
